@@ -17,4 +17,4 @@ HiC-contacts-for-corrected-scaffold: A folder that contains temporary results, i
 
 A.oxysepala_DLE-1_optical.cmap: The information of assembled Bionano optical DLE-1 consensus maps (.cmap) of A.oxysepala for detecting and validating potentail problematic contigs. We in silico digested the initial draft contigs of A.oxysepala using the same restriction enzyme DLE-1 ('CTTAAG') to produce genomic maps.
 
-Raw_sequencing_Illumina_PacBio_HiC.link: An address that links all of the raw sequencing data used in this project, including the raw PacBio CLR long-reads, the Illumina PE-reads, and Hi-C data. 
+Raw_sequencing_Illumina_PacBio_HiC.link: An address that links all of the raw sequencing data used in this project, including the raw PacBio CLR long-reads, the Illumina PE-reads, and Hi-C data. These sequencing data have also been submitted to the National Center for Biotechnology Information (NCBI) under the BioProject Accession: PRJNA636213.
