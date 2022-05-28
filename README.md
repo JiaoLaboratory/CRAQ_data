@@ -15,6 +15,10 @@ HiC-contacts-for-original-scaffold: A folder that contains the temporary files, 
 
 HiC-contacts-for-corrected-scaffold: A folder that contains temporary results, including the Hi-C interaction file (.hic), and the orientation and order information (.assembly) file for checking up the anchored CRAQ-corrected contigs. These files can be loaded directly into the Juicebox tool for visualization.
 
-A.oxysepala_DLE-1_optical.cmap: The information of assembled Bionano optical DLE-1 consensus maps (.cmap) of A.oxysepala for detecting and validating potentail problematic contigs. We in silico digested the initial draft contigs of A.oxysepala using the same restriction enzyme DLE-1 ('CTTAAG') to produce genomic maps.
+A.oxysepala_DLE-1_optical.cmap: De novo assembled Bionano optical DLE-1 consensus maps (.cmap) of A.oxysepala for detecting and validating potentail problematic contigs in this project. We in silico digested the initial draft contigs and CRAQ-corrected contigs of A.oxysepala using the same restriction enzyme DLE-1 ('CTTAAG') to produce genomic maps.
+
+Bionano_cmap_VS_draft_Aox.alignref: A folder that contains the alingment results by aligning the in silico DLE-1 genomic maps of the initial A.oxysepala contigs to the Bionano optical consensus maps. These results can be loaded directly into the Bionano Access tool for visualization.
+
+Bionano_cmap_VS_corrected_Aox.alignref: A folder that contains the alingment results by aligning the in silico genomic maps of the CRAQ-corrected A.oxysepala contigs to the Bionano optical consensus maps. These results can be loaded directly into the Bionano Access tool for visualization.
 
 Raw_sequencing_Illumina_PacBio_HiC.link: An address that links all of the raw sequencing data used in this project, including the raw PacBio CLR long-reads, the Illumina PE-reads, and Hi-C data. These sequencing data have also been submitted to the National Center for Biotechnology Information (NCBI) under the BioProject Accession: PRJNA636213.
