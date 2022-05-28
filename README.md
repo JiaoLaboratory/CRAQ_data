@@ -3,7 +3,7 @@ https://doi.org/10.5281/zenodo.6589149
 
 Detailed description: 
 
-A.oxysepala_contig_draft.fa: The original draft FALCON contigs of A.oxysepala for CRAQ-correct performing.  
+A.oxysepala_contig_draft.fa: The original draft contigs of A.oxysepala for CRAQ-correct performing.  
 
 A.oxysepala_contig_CRAQcorrect.fa: The new generated A.oxysepala contigs after performing CRAQ correction.  
 
