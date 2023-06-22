@@ -5,7 +5,7 @@ Detailed description:
 
 A.oxysepala_contig_draft.fa: The original draft contigs of A.oxysepala for CRAQ-correct performing.  
 
-A.oxysepala_contig_CRAQcorrect.fa: The new generated A.oxysepala contigs after performing CRAQ correction.  
+A.oxysepala_contig_CRAQcorrect.fa: The new generated A.oxysepala contigs after splitting misjoins at CSE positions.  
 
 A.oxysepala_original.scaffold.hic.fas: The original scaffolds from the draft contigs of A.oxysepala. 3D-DNA pipeline (without correction: -r 0) was performed for the De novo scaffolding process.  
 
