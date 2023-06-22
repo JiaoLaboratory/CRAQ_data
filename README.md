@@ -3,8 +3,7 @@ https://zenodo.org/record/8018053
 
 Detailed description: 
 
-A.oxysepala_c![image](https://github.com/JiaoLaboratory/CRAQ_data/assets/65637958/69069881-fc60-4c09-83dd-63b758043fac)
-ontig_draft.fa: The original draft contigs of A.oxysepala for CRAQ-correct performing.  
+A.oxysepala_contig_draft.fa: The original draft contigs of A.oxysepala for CRAQ-correct performing.  
 
 A.oxysepala_contig_CRAQcorrect.fa: The new generated A.oxysepala contigs after performing CRAQ correction.  
 
