@@ -1,15 +1,16 @@
 ### Datasets of Aquilegia oxysepala used in this project can be download here:
-https://doi.org/10.5281/zenodo.6589149
+https://zenodo.org/record/8018053
 
 Detailed description: 
 
-A.oxysepala_contig_draft.fa: The original draft contigs of A.oxysepala for CRAQ-correct performing.  
+A.oxysepala_c![image](https://github.com/JiaoLaboratory/CRAQ_data/assets/65637958/69069881-fc60-4c09-83dd-63b758043fac)
+ontig_draft.fa: The original draft contigs of A.oxysepala for CRAQ-correct performing.  
 
 A.oxysepala_contig_CRAQcorrect.fa: The new generated A.oxysepala contigs after performing CRAQ correction.  
 
-A.oxysepala_original.scaffold.hic.fa: The original scaffolds from the draft contigs of A.oxysepala. 3D-DNA pipeline (without correction: -r 0) was performed for the De novo scaffolding process.  
+A.oxysepala_original.scaffold.hic.fas: The original scaffolds from the draft contigs of A.oxysepala. 3D-DNA pipeline (without correction: -r 0) was performed for the De novo scaffolding process.  
 
-A.oxysepala_corrected.scaffold.hic.fa: The new generated scaffolds from the CRAQ-corrected contigs of A.oxysepala. 3D-DNA pipeline (without correction: -r 0) was performed for the De novo scaffolding process as above. 
+A.oxysepala_corrected.scaffold.hic.fas: The new generated scaffolds from the CRAQ-corrected contigs of A.oxysepala. 3D-DNA pipeline (without correction: -r 0) was performed for the De novo scaffolding process as above. 
 
 HiC-contacts-for-original-scaffold: A folder that contains the results, including the Hi-C interaction file (.hic), and the orientation and order information (.assembly) file for checking up the anchored draft contigs. These files can be loaded directly into the Juicebox tool for visualization
 
