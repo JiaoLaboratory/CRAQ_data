@@ -1,5 +1,4 @@
 ### Datasets of Aquilegia oxysepala used in this project can be download here:
-https://zenodo.org/record/8175416
 https://doi.org/10.5281/zenodo.8175416
 
 Detailed description: 
@@ -25,12 +24,4 @@ Bionano_cmap_VS_corrected_Aox.alignref: A folder that contains the alingment res
 Raw_sequencing_Illumina_PacBio_HiC.link: An address that links all of the raw sequencing data used in this project, including the raw PacBio CLR long-reads, the Illumina PE-reads, and Hi-C data. These sequencing data have also been submitted to the National Center for Biotechnology Information (NCBI) under the BioProject Accession: PRJNA636213.
 
 
-### Datasets of Hg38 used in this project can be download here:
-https://doi.org/10.5281/zenodo.8381740
-
-hg38_ctgmin500k.fa.gz：Raw Hg38 genome fasta.  
-
-hg38_ctgmin500k_simulated1.fa.gz : Simulated heterozygous hg38 genome.  
-
-hg38_ctgmin500k_simulated2.fa.gz : Simulated error-included hg38 genome.  
 
