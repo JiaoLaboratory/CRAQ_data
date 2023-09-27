@@ -23,5 +23,8 @@ Bionano_cmap_VS_corrected_Aox.alignref: A folder that contains the alingment res
 
 Raw_sequencing_Illumina_PacBio_HiC.link: An address that links all of the raw sequencing data used in this project, including the raw PacBio CLR long-reads, the Illumina PE-reads, and Hi-C data. These sequencing data have also been submitted to the National Center for Biotechnology Information (NCBI) under the BioProject Accession: PRJNA636213.
 
-
-
+### Datasets of Hg38 genome sequences used in this project can be download here:
+https://doi.org/10.5281/zenodo.8383281  
+hg38_original.fasta.gz : The original hg38 contig sequences (contigs length < 500kb were excluded ).  
+hg38_sim1.fasta.gz : The  simulated heterozygous hg38 genome.  
+hg38_sim2.fasta.gz : The  simulated error-included hg38 genome.  
