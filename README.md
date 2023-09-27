@@ -25,7 +25,7 @@ Raw_sequencing_Illumina_PacBio_HiC.link: An address that links all of the raw se
 
 
 ### Datasets of Hg38 used in this project can be download here:
-https://zenodo.org/deposit/8381740  
+https://doi.org/10.5281/zenodo.8381740
 
 hg38_ctgmin500k.fa.gz：Raw Hg38 genome fasta.  
 
